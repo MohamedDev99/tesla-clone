@@ -1,0 +1,11 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "prettier.htmlWhitespaceSensitivity": "ignore",
+  "oneDarkPro.editorTheme": "oneDarkProFlat",
+  "cSpell.words": [
+    "reduxjs",
+    "Touchless"
+  ]
+}
